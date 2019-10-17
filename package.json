@@ -31,6 +31,7 @@
     "webpack-dev-server": ">=3.1.11"
   },
   "dependencies": {
+    "eslint": "^6.5.1",
     "vue": "^2.6.10"
   }
 }
